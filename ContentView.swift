@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  DeafAid
 //
-//  Created by Deeksha Mamidi on 7/8/23.
+//  Created by Devesh Mamidi on 7/8/23.
 //
 
 import SwiftUI
